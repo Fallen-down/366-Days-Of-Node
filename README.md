@@ -10,6 +10,10 @@
 
 fs 模块
 fs-ex: 拆分 html 中的 js 和 css
+http-ex: 静态文件托管
+module-ex: module
+express-ex: express
+api_server: express 接口实现
 
 ## 第 2 天
 
