@@ -10,12 +10,13 @@
 
 示例代码
 
-fs 模块
-fs-ex: 拆分 html 中的 js 和 css
-http-ex: 静态文件托管
-module-ex: module
-express-ex: express
-api_server: express 接口实现
+- fs 模块
+- fs-ex: 拆分 html 中的 js 和 css
+- http-ex: 静态文件托管
+- module-ex: module
+- express-ex: express
+- api_server: express 接口实现
+- module-ex/itheima-tools-sdh 发布包
 
 ## 第 2 天
 
@@ -23,10 +24,10 @@ api_server: express 接口实现
 
 代码示例
 
-node-blog
-express-blog
-koa-blog
-pm2-test
+- node-blog
+- express-blog
+- koa-blog
+- pm2-test
 
 ## 第 3 天
 
