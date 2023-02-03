@@ -39,6 +39,7 @@ app.use(function (req, res, next) {
 })
 
 // 解析 token
+// unless 不校验路径
 app.use(expressJWT({ secret: config.jwtSecretKey, algorithms: ["HS256"], }).unless({ path: [/^\/api/] }))
 
 app.use('/api', usersRouter)
