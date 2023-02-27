@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel="stylesheet" href="/stylesheets/style.css" />
+  </head>
+  <body>
+    <h1><%= title %></h1>
+    <p>EJS Welcome to <%= title %></p>
+    <p><%= locals.des %></p>
+    <!-- 不一定传 用 locals-->
+    <p><%= locals.name %></p>
+
+    <%- include('widgets/user-info',{ isSelf }) %>
+
+    <div><%- include('widgets/blog-list',{ blogList }) %></div>
+  </body>
+</html>

@@ -68,6 +68,9 @@ typings/
 # Yarn Integrity file
 .yarn-integrity
 
+# pnpm Integrity file
+pnpm-lock.yaml
+
 # dotenv environment variables file
 .env
 .env.test
@@ -110,3 +113,4 @@ dist
 *.ntvs*
 *.njsproj
 *.sln
+
