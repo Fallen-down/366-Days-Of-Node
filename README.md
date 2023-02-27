@@ -22,16 +22,31 @@
 
 ### [Node.js+Express+Koa2 开发 Web Server 博客](https://coding.imooc.com/class/320.html)
 
+### [尚硅谷 MongoDB 入门基础教程](https://www.bilibili.com/video/BV18s411E78K/)
+
 代码示例
 
 - node-blog
 - express-blog
 - koa-blog
 - pm2-test
+- mongoose-test mongoose 的基础操作
 
 ## 第 3 天
 
 ### [Node.js-Koa2 框架生态实战－从零模拟新浪微博](https://coding.imooc.com/class/388.html)
+
+
+
+
+
+
+
+
+
+
+
+
 
 post 处理
 
